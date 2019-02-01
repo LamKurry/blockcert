@@ -16,5 +16,5 @@
   ],
   "revocationList": "https://raw.githubusercontent.com/Paris-LIN/blockcert/master/revocation-list-coos.json",
   "type": "Profile",
-  "introductionUrl": "http://www.coos.ai"
+  "introductionUrl": "https://raw.githubusercontent.com/Paris-LIN/blockcert/master"
 }
